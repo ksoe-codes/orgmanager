@@ -135,3 +135,6 @@ When you file a feature request or when you are submitting a bug report to the i
 ## License
 
 Licensed under the Mozilla Public License (MPL). For more information, checkout the [LICENSE](LICENSE.md).
+
+## Create Awesome!
+## Keep making the world a better place to live helping each other develop.
